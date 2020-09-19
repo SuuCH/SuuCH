@@ -1,5 +1,5 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SuuCH&hide=stars&count_private=true)  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SuuCH)
 ![](https://komarev.com/ghpvc/?username=SuuCH&color=green)
 <!--
 **SuuCH/SuuCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
