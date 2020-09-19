@@ -1,5 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=SuuCH)
 ![](https://komarev.com/ghpvc/?username=SuuCH&color=green)
-aiueo
 <!--
 **SuuCH/SuuCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
