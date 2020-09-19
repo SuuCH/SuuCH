@@ -1,5 +1,4 @@
-[![](https://raw.githubusercontent.com/SuuCH/SuuCH/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+![](https://komarev.com/ghpvc/?username=[SuuCH]&color=green)
 <!--
 **SuuCH/SuuCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
