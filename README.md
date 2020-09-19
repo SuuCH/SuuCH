@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=SuuCH)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=SuuCH&layout=compact)
 ![](https://komarev.com/ghpvc/?username=SuuCH&color=green)
 <!--
 **SuuCH/SuuCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
